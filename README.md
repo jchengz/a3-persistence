@@ -3,7 +3,7 @@ Readme
 Justin Cheng
 https://a3-jchengz.glitch.me/
 
-## Your Web Application Title
+## Inspira - A Web App for Storing Quotes!
 
 Link: https://a3-jchengz.glitch.me/
 
