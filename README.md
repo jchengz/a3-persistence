@@ -9,7 +9,7 @@ Link: https://a3-jchengz.glitch.me/
 
 
 For A3- I decided to make a new web application. This one allows the user to enter quotes and the author of quotes. There is a max of 20 characters for the authors name and
-a max of 800 character for the quote. To access the application, you must use the google log-in (yours, or slacked to the TAs). You will be able to view the quotes after logging in 
+a max of 800 character for the quote. To access the application, you must use the google log-in **(yours, or slacked to the TAs)**. You will be able to view the quotes after logging in 
 add your own quotes or edit any quotes. Shown in the table of quotes (See All Quotes) is the the author followed by the quote, followed by the number of words (wordcount) in the
 quote. To "log out" close the window or hit the exit button.
 
