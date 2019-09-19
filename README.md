@@ -7,7 +7,6 @@ https://a3-jchengz.glitch.me/
 
 Link: https://a3-jchengz.glitch.me/
 
-Include a very brief summary of your project here. Images are encouraged, along with concise, high-level text. Be sure to include:
 
 For A3- I decided to make a new web application. This one allows the user to enter quotes and the author of quotes. There is a max of 20 characters for the authors name and
 a max of 800 character for the quote. To access the application, you must use the google log-in (yours, or slacked to the TAs). You will be able to view the quotes after logging in 
